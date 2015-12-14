@@ -43,9 +43,9 @@
     <color name="container_fastscroll_thumb_active_color">#009688</color>
 
     <!-- Options -->
-    <color name="ic_setting_icon_color">#FF374248</color>
-    <color name="ic_wallpaper_icon_color">#FF374248</color>
-    <color name="ic_widget_icon_color">#FF374248</color>
+    <color name="ic_setting_icon_color">#FFFFFFFF</color>
+    <color name="ic_wallpaper_icon_color">#FFFFFFFF</color>
+    <color name="ic_widget_icon_color">#FFFFFFFF</color>
 
     <!-- All Apps -->
     <color name="all_apps_grid_section_text_color">#009688</color>
